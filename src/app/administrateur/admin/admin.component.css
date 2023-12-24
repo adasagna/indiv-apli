@@ -1,0 +1,9 @@
+.btnProf, .btnEtudiant{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+.fond-bleu {
+    background-color: rgb(43, 67, 101);
+}

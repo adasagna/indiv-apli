@@ -1,0 +1,10 @@
+main{
+    display: flex;
+}
+#titre{
+    background-color:  rgb(244, 240, 240);
+}
+/* .matier{
+    background-color: rgb(227, 152, 145);
+    padding: 10px;
+} */

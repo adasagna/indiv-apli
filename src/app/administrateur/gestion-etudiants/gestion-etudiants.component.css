@@ -1,0 +1,14 @@
+.sidebar {
+    height: 75vh;
+}
+ .trait {
+     border: 2px solid #254667;
+     width: 20%;
+     margin: 0 auto;
+ }
+ .fond-bleu {
+     background-color: #0D6EFD;
+ }
+ .nav-pills a {
+     cursor: pointer;
+ }
